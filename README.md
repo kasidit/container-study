@@ -1,6 +1,8 @@
-<h1>Tutorial: docker แบบง่ายๆ</h1>
+<h1>Tutorial: Note เกี่ยวกับ docker และ linuxkit </h1>
 <p><p>
-<h2>1. ติดตั้ง docker บน ubuntu 16.04 </h2>
+นี่เป็น note จิปาถะที่ผมทำขึ้นเพื่อช่วยจำว่าทดลองเล่นอะไรไปบ้าง 
+<p>
+<h2>เรื่องที่ 1. ติดตั้ง docker บน ubuntu 16.04 ตามที่เว็บเขาสอนกัน</h2>
 <p><p>
 เรา assume ว่า host ใช้ ubuntu 16.04 ที่มี FS แบบ ext4
 <p><p>
@@ -63,14 +65,7 @@ $ sudo apt-get purge docker-ce
 $ sudo rm -rf /var/lib/docker
 </pre>
 <p><p>
-<h2>2. การโหลดและรัน image จาก repository</h2>
+<h2>เรื่องที่ 2. ลองใช้ linuxkit</h2>
 <p><p>
 <p><p>
-<h2>3. คำสั่ง docker CLI</h2>
-<p><p>
-<p><p>
-<h2>4. docker hub</h2>
-<p><p>
-<p><p>
-<h2>5. การ publish image ใหม่</h2>
 <p><p>  
