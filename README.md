@@ -68,4 +68,9 @@ $ sudo rm -rf /var/lib/docker
 <h2>เรื่องที่ 2. ลองใช้ linuxkit</h2>
 <p><p>
 <p><p>
+หลังจากติดตั้ง linuxkit แล้ว ผมจะทดลองทำตาม blog ที่ใช้ linuxkit ทำ ssh daemon container ที่
+https://blog.alexellis.io/boot-linuxkit-in-10-mins/
+<p><p>
+
+
 <p><p>  
