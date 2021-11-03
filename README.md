@@ -1,8 +1,8 @@
-<h1>Tutorial: Note เกี่ยวกับ docker และ linuxkit </h1>
+<h1>Tutorial: Note เกี่ยวกับ container</h1>
 <p><p>
-นี่เป็น note จิปาถะที่ผมทำขึ้นเพื่อช่วยจำว่าทดลองเล่นอะไรไปบ้าง 
+สมุดจดเพื่อศึกษาเกี่ยวกับ container 
 <p>
-<h2>เรื่องที่ 1. ติดตั้ง docker บน ubuntu 16.04 ตามที่เว็บเขาสอนกัน</h2>
+<h2>ติดตั้ง docker บน ubuntu 16.04</h2>
 <p><p>
 เรา assume ว่า host ใช้ ubuntu 16.04 ที่มี FS แบบ ext4
 <p><p>
@@ -65,7 +65,7 @@ $ sudo apt-get purge docker-ce
 $ sudo rm -rf /var/lib/docker
 </pre>
 <p><p>
-<h2>เรื่องที่ 2. ลองใช้ linuxkit</h2>
+<h2>ลองใช้ linuxkit</h2>
 <p><p>
 <p><p>
 หลังจากติดตั้ง linuxkit แล้ว ผมจะทดลองทำตาม blog ที่ใช้ linuxkit ทำ ssh daemon container ที่
